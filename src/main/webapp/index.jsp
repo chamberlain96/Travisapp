@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desamist Tech</title>
+    <title>Welcome to My Web App</title>
 </head>
 <body>
-    <h1>Welcome to Desamist Tech!</h1>
-    <p>Your trusted partner for cutting-edge technology solutions.</p>
+    <h1>Welcome to My Web App!</h1>
+    <a href="hello">Go to Hello Page</a>
 </body>
 </html>
